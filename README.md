@@ -1,2 +1,0 @@
-# ARTHUR
-_ARTHUR_
